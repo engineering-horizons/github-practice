@@ -19,14 +19,16 @@ Practice!
   -  You can do this through vscode or the terminal. Its up to you!
   -  Once you have created a new file, you have to "stage" those changes.
   >  `git add 'file-name'`
-     - **NOTE**: you CAN use `git add .` to add everything you have modified in 1 command. We recommend NOT doing this because this might add any system files or pre compiled files. 
+
+    - NOTE: you CAN use `git add .` to add everything you have modified in 1 command. We recommend NOT doing this because this might add any system files or pre compiled files. 
 3. **Commit your changes**
   - Once you have staged all changes, you have to "commit" your changes. This creates a saved stat in your git history of your current code.
   > `git commit -m "some meaningful message"`
 4. **Push your changes to `main`!**
   -  After you make a commit, these changes are still only in effect on your local clone of the repository. To add these changes to the remote repository, you have to push.
   > `git push`
-     -  **NOTE**: if someone else has made changes and pushed them before you, you might have to `git pull` to update your local copy of the repository before you can push!
+
+    - NOTE: if someone else has made changes and pushed them before you, you might have to `git pull` to update your local copy of the repository before you can push!
 
 ### Branches
 *Branching gives you an isolated copy of the repository that you can edit completely unaffected by the main branch. This will be how you add features to each repository*
