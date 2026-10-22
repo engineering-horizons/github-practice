@@ -99,4 +99,4 @@ git add <file-you-modified>
 git commit -m "Meaningful Message about Commit"
 ```
 
-For more information you can visit our [Github](<TBD>)
+For more information you can visit our [Reference Doc](<https://docs.google.com/document/d/1s4ckiUrGYMQh16c2uRChw-FAYgOazpbwxVteR9Cr5hs/edit?tab=t.hr7iivu9fs46#heading=h.4mlvh2w1u4sb>)
