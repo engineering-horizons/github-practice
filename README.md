@@ -1,4 +1,6 @@
 # Practice Github Commands
+-Zayyan Ahmad- joining the 4DOF-Robotic Arm  
+"Follow up PR request"
 
 This is not a comprehensive introduction to git. There are a lot of great resources out there of how to use git. This repo is intended to give members a low stress sandbox where they can practice commonly used git commands
 
